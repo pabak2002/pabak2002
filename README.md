@@ -1,9 +1,10 @@
-### Hi there, I'm Pabak 👋
+ Hi there, I'm Pabak 👋
 
 <!--
 **pabak2002/pabak2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on AI, ML, DL apart from DSA.
 - 🌱 I’m currently learning and working on my interests.
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 Reach me on pabak2002kundu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Enjoy playing cricket and enjoy coding a lot.
--->
